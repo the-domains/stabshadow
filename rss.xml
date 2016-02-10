@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[stabshadow]]></title>
         <description><![CDATA[stabshadow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stabshadow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 18:08:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 22:25:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stabshadow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Breath for Internal Control]]></title>
-            <description><![CDATA[<article><h1>Breath for Internal Control</h1><p>DVD Sleeve Artwork for Systema Headquarters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fe9064ef96f717f1aeafe2eb77e2a348336db1f.png"></article>]]></description>
-            <link>undefinedbreath-for-internal-control/index.html</link>
+            <description><![CDATA[<article><h1>Breath for Internal Control</h1><p>DVD Sleeve Artwork for Systema Headquarters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67f89d956981f99c0e820b2bdad49e49424fe4b8.png"></article>]]></description>
+            <link>https://thegrid.ai/stabshadow/breath-for-internal-control/index.html</link>
             <guid isPermaLink="false">397297c4-2dee-43ab-b2c1-fb784437e991</guid>
-            <pubDate>Tue, 09 Feb 2016 18:08:18 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 22:24:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
