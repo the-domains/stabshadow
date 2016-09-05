@@ -1,20 +1,4 @@
-name: stabshadow
-favicon: null
-layout_spectrum: 0.14301
 typography_spectrum: 0.54261
-title: STABSHADOW DESIGN
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#683f5f'
@@ -26,4 +10,21 @@ color:
   lightness: 0.375
   saturation: 0.375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14301
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: stabshadow
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: STABSHADOW DESIGN
+description: testing
 purpose: []
